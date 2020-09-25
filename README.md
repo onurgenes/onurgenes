@@ -27,9 +27,13 @@
 <a href="https://github.com/onurgenes">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=onurgenes&layout=compact" />
 </a>
+
 ---
+
+### Also, I am writing at [my blog][blog] but it is not in a really active these days. You can ping me with new ideas.
 
 [website]: https://epist.io
 [personalwebsite]: https://onurgenes.com
 [twitter]: https://twitter.com/onurgenes
 [linkedin]: https://www.linkedin.com/in/onurgenes/
+[blog]: https://devgenes.com
