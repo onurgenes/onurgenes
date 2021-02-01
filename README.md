@@ -19,17 +19,6 @@
 
 ---
 
-<a href="https://github.com/onurgenes">
-<img align="center" alt="onurgenes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=onurgenes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /></a>
-
-</br>
-
-<a href="https://github.com/onurgenes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgenes&layout=compact" />
-</a>
-
----
-
 ### Also, I am writing at [my blog][blog] but it is not in a really active these days. You can ping me with new ideas.
 
 [website]: https://epist.io
