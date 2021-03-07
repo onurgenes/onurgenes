@@ -2,10 +2,7 @@
 ### I am a software developer and owner of [epist.io][website]
 
 - 🔭 I’m currently working on getting new contracts for [my own company][website]
-- You can check my micro SaaS projects: [Create Twitter Threads](https://threadmaker.co)
-- 🌱 I’m currently learning Android Development
-- 👯 I’m looking for a co-founder on my new project
-- 🤔 I’m looking for help with marketing strategies for apps
+- You can check my micro SaaS projects: [Create Twitter Threads(SOLD 🤑)](https://threadmaker.co)
 - 💬 Ask me about anything related to business or contacts
 - ⚡ Fun fact: I really like to meet new people
 
