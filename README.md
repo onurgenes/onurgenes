@@ -2,9 +2,8 @@
 ### I am a software developer and owner of [epist.io][website]
 
 - 🔭 I’m currently working on getting new contracts for [my own company][website]
-- You can check my micro SaaS projects: [Create Twitter Threads(SOLD 🤑)](https://threadmaker.co), [Super Portfolio](https://superportfolio.co), [Bulut Muhasebe](https://bulutmuhasebe.co)
-- 💬 Ask me about anything related to business or contacts
-- ⚡ Fun fact: I really like to meet new people
+- You can check my micro SaaS projects: [Create Twitter Threads(SOLD 🤑)](https://threadmaker.co), [Super Portfolio](https://superportfolio.co), [The Uptime Monitor](https://theuptimemonitor.com)
+- 💬 Ask me about anything related to business or contracts
 
 ---
 
@@ -23,4 +22,4 @@
 [personalwebsite]: https://onurgenes.com
 [twitter]: https://twitter.com/onurgenes
 [linkedin]: https://www.linkedin.com/in/onurgenes/
-[blog]: https://devgenes.com
+[blog]: https://onurgenes.com
