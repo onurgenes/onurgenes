@@ -1,9 +1,7 @@
 ## Hi there 👋 I am [Onur][personalwebsite].
-### I am a software developer and owner of [epist.io][website]
+### I am a software developer and founder of [Nureply][website]
 
-- 🔭 I’m currently working on getting new contracts for [my own company][website]
-- You can check my micro SaaS projects: [Create Twitter Threads(SOLD 🤑)](https://threadmaker.co), [Super Portfolio](https://superportfolio.co), [The Uptime Monitor](https://theuptimemonitor.com)
-- 💬 Ask me about anything related to business or contracts
+- 🔭 I’m currently working on Nureply for helping small companies to get more clients at [my own company][website]
 
 ---
 
@@ -18,7 +16,7 @@
 
 ### Also, I am writing at [my blog][blog] but it is not in a really active these days. You can ping me with new ideas.
 
-[website]: https://epist.io
+[website]: https://nureply.com
 [personalwebsite]: https://onurgenes.com
 [twitter]: https://twitter.com/onurgenes
 [linkedin]: https://www.linkedin.com/in/onurgenes/
