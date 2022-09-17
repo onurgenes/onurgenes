@@ -1,7 +1,7 @@
 ## Hi there 👋 I am [Onur][personalwebsite].
 ### I am a software developer and founder of [Nureply][website]
 
-- 🔭 I’m currently working on Nureply for [helping companies and agencies to get more clients only using emails][https://nureply.com]
+- 🔭 I’m currently working on Nureply for [helping companies and agencies to get more clients only using emails](https://nureply.com)
 
 ---
 
