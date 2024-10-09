@@ -1,6 +1,5 @@
 ## Hi there 👋 I am [Onur][personalwebsite].
 ### I am a serial entrepeneuer who happens to know how to code
-- 🔭 I’m currently working on Nureply for [helping companies and agencies to get more clients only using emails](https://nureply.com)
 
 ---
 
